@@ -52,6 +52,6 @@ public class Postulante {
         return this.puntajeExamen + calcularMeritos();
     }
     public boolean requiereNivelacion(){
-        return Carrera.getFormaAdmision;
+        return carreraDeseada.getFormaAdmision().equalsIgnoreCase("Diagnostico") && puntajeExamen > carreraDeseada.getPuntajeNivelacion();
     }
 }
