@@ -1,14 +1,16 @@
 
 package Modelado;
+
 public class Postulante {
     private String nombre;
-    private long cedula;
+    private String cedula;
     private Carrera carreraDeseada;
     private double puntajeExamen;
     private boolean nesecitaNivelacion;
     private int puntajeMerito;
     private String tipoMerito;
-    public Postulante(String nombre, long cedula, Carrera carreraDeseada){
+
+    public Postulante(String nombre, String cedula, Carrera carreraDeseada){
         this.nombre = nombre;
         this.cedula = cedula;
         this.carreraDeseada = carreraDeseada;
@@ -22,8 +24,12 @@ public class Postulante {
         this.tipoMerito = tipoMerito;
     }
 
-    public long getCedula() {
+    public String getCedula() {
         return cedula;
+    }
+
+    public String getNombre() {
+        return nombre;
     }
 
     public Carrera getCarreraDeseada() {
@@ -33,25 +39,30 @@ public class Postulante {
     public double getPuntajeExamen() {
         return puntajeExamen;
     }
+
     public double getPuntajeTotal(){
         return calcularPuntajeTotal();
     }
+
     public double calcularMeritos(){
-        if (this.tipoMerito == null){
+        if (this.tipoMerito != null){
             if (this.tipoMerito.equalsIgnoreCase("Abanderado")){
                 this.puntajeMerito += 5;
-            }else if (this.tipoMerito.equalsIgnoreCase("Bachillerato Afin")){
+            } else if (this.tipoMerito.equalsIgnoreCase("Bachillerato Afin")){
                 this.puntajeMerito += 2;
-            }else if (this.tipoMerito.equalsIgnoreCase("Capacidad especial")){
+            } else if (this.tipoMerito.equalsIgnoreCase("Capacidad especial")){
                 this.puntajeMerito += 3;
             }
         }
         return this.puntajeMerito;
     }
+
     public double calcularPuntajeTotal(){
         return this.puntajeExamen + calcularMeritos();
     }
+
     public boolean requiereNivelacion(){
-        return carreraDeseada.getFormaAdmision().equalsIgnoreCase("Diagnostico") && puntajeExamen > carreraDeseada.getPuntajeNivelacion();
+        return carreraDeseada.getFormaAdmision().equalsIgnoreCase("Diagnostico") &&
+               puntajeExamen > carreraDeseada.getPuntajeNivelacion();
     }
 }
