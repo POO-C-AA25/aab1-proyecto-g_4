@@ -1,0 +1,55 @@
+Isabela Ortiz;Bioquimica y Farmacia;65.03;Bachillerato Afin;2025-04-22
+Camila Gómez;Computacion;65.02;Bachillerato Afin;2025-04-21
+Lucía Navarro;Pedagogia de los idiomas Nacionales y Extranjeros;90.32;Capacidad especial;2025-04-23
+Pedro Rodríguez;Gastronomia;70.14;;2025-04-24
+Mónica Herrera;Artes Escenicas;80.19;Bachillerato Afin;2025-04-25
+Ricardo Martínez;Ingenieria Civil;92.25;Abanderado;2025-04-26
+Alejandra Quintero;Telecomunicaciones;67.81;Capacidad especial;2025-04-27
+Luis Pérez;Pedagogia de los idiomas Nacionales y Extranjeros;98.97;Abanderado;2025-04-28
+Manuel Herrera;Fisioterapia;80.52;Bachillerato Afin;2025-04-29
+Vanessa Martínez;Gastronomia;89.26;Abanderado;2025-04-30
+Elena Salazar;Ingenieria Civil;96.32;Bachillerato Afin;2025-05-01
+Laura Zambrano;Pedagogia de los idiomas Nacionales y Extranjeros;91.46;Capacidad especial;2025-05-01
+María Torres;Artes Visuales;62.50;Capacidad especial;2025-05-02
+Álvaro Cordero;Nutricion y Dietética;64.37;Capacidad especial;2025-05-03
+Laura Romero;Ingenieria Civil;93.28;;2025-05-04
+Ana Medina;Economia;96.95;Bachillerato Afin;2025-05-05
+Pedro Palacios;Nutricion y Dietética;66.51;;2025-04-20
+Álvaro Flores;Finanzas;75.21;Capacidad especial;2025-04-21
+Sebastián Vargas;Ingenieria Quimica;73.10;Bachillerato Afin;2025-04-22
+Vanessa Reyes;Derecho;86.99;Bachillerato Afin;2025-04-23
+Andrea Escobar;Psicopedagogia;61.39;Abanderado;2025-04-24
+Felipe Salazar;Arquitectura;88.98;Abanderado;2025-04-25
+Fernanda Sánchez;Pedagogia de los idiomas Nacionales y Extranjeros;73.67;Bachillerato Afin;2025-04-26
+Sebastián Morales;Telecomunicaciones;85.15;;2025-04-27
+Juan Torres;Telecomunicaciones;84.36;;2025-04-28
+Manuel Aguilar;Arquitectura;70.33;Bachillerato Afin;2025-04-29
+Laura Escobar;Biologia;69.73;;2025-04-30
+Renata Ramos;Economia;91.25;;2025-04-30
+Carlos Rodríguez;Psicologia Clinica;75.68;Abanderado;2025-05-01
+Karen López;Medicina;93.32;;2025-05-01
+Nicole Sánchez;Fisioterapia;89.75;Capacidad especial;2025-05-02
+Julián Cruz;Psicologia;86.39;Bachillerato Afin;2025-05-03
+Renata Castillo;Psicopedagogia;97.73;;2025-05-04
+Isabela Jiménez;Nutricion y Dietética;78.97;Capacidad especial;2025-05-05
+Laura Castillo;Pedagogia de los idiomas Nacionales y Extranjeros;98.87;Capacidad especial;2025-04-20
+Vanessa Flores;Fisioterapia;92.20;Bachillerato Afin;2025-04-21
+Antonella Mendoza;Administracion de empresas;97.71;Abanderado;2025-04-22
+Karen Morales;Computacion;63.38;Capacidad especial;2025-04-23
+Cristian Aguilar;Ingenieria Industrial;61.92;Bachillerato Afin;2025-04-24
+Jorge Guachamín;Nutricion y Dietética;99.17;Capacidad especial;2025-04-25
+Alejandra Rodríguez;Ingenieria Civil;74.35;;2025-04-26
+Marco Coronel;Derecho;87.33;Abanderado;2025-04-27
+Valentina Mendoza;Telecomunicaciones;70.95;Capacidad especial;2025-04-28
+Sofía Escobar;Computacion;81.66;;2025-04-29
+Luis Jara;Arquitectura;82.40;Bachillerato Afin;2025-04-30
+Laura Martínez;Ingenieria Industrial;63.72;Capacidad especial;2025-05-01
+Jorge Navarro;Telecomunicaciones;76.36;;2025-05-02
+Vanessa Villavicencio;Contabilidad y Auditoria;98.23;Abanderado;2025-05-03
+Alejandra Jara;Psicologia Clinica;61.30;Bachillerato Afin;2025-05-04
+Sofía Chávez;Psicopedagogia;90.15;;2025-05-05
+Mario Torres;Medicina;85.12;Abanderado;2025-05-07
+Gabriela Suárez;Computacion;89.32;Capacidad especial;2025-05-08
+Kevin Herrera;Gastronomia;75.11;;2025-05-09
+Diana Zambrano;Finanzas;91.78;Bachillerato Afin;2025-05-10
+Francisco Pérez;Derecho;79.44;;2025-05-12

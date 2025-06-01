@@ -1,0 +1,28 @@
+Administracion de empresas;60;50;Examen Admision
+Agropecuaria;60;50;Examen Admision
+Alimentos;60;50;Examen Admision
+Artes Escenicas;60;50;Examen Admision
+Artes Visuales;60;50;Examen Admision
+Biologia;50;50;Examen Admision
+Contabilidad y Auditoria;66;50;Examen Admision
+Derecho;67;50;Examen Admision
+Economia;60;50;Examen Admision
+Finanzas;50;50;Examen Admision
+Geologia;55;50;Examen Admision
+Ingenieria Ambiental;50;50;Examen Admision
+Pedagogia de los idiomas Nacionales y Extranjeros;55;50;Examen Admision
+Psicopedagogia;50;50;Examen Admision
+Telecomunicaciones;55;50;Examen Admision
+Arquitectura;50;0;Examen Admision
+Bioquimica y Farmacia;55;0;Examen Admision
+Computacion;50;0;Examen Admision
+Enfermeria;55;0;Examen Admision
+Fisioterapia;50;0;Examen Admision
+Gastronomia;55;0;Examen Admision
+Ingenieria Civil;50;0;Examen Admision
+Ingenieria Industrial;55;0;Examen Admision
+Ingenieria Quimica;50;0;Examen Admision
+Medicina;55;0;Examen Admision
+Nutricion y Dietética;50;0;Examen Admision
+Psicologia;55;0;Examen Admision
+Psicologia Clinica;50;50;Examen Admision

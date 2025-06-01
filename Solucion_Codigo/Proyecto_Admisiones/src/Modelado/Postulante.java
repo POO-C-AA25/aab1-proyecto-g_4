@@ -6,7 +6,6 @@ public class Postulante {
     private String cedula;
     private Carrera carreraDeseada;
     private double puntajeExamen;
-    private boolean nesecitaNivelacion;
     private int puntajeMerito;
     private String tipoMerito;
 
@@ -44,6 +43,10 @@ public class Postulante {
         return calcularPuntajeTotal();
     }
 
+    public String getTipoMerito() {
+        return tipoMerito;
+    }
+    
     public double calcularMeritos(){
         if (this.tipoMerito != null){
             if (this.tipoMerito.equalsIgnoreCase("Abanderado")){

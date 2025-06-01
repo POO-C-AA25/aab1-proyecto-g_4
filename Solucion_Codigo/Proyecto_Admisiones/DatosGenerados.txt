@@ -1,0 +1,177 @@
+=== Resultados de admisión por carrera ===
+Carrera: Administracion de empresas
+Admitidos:
+- Antonella Mendoza, Cédula: 2841167355, Puntaje: 107,71
+Total Admitidos: 1
+---------------
+Carrera: Agropecuaria
+Admitidos:
+Total Admitidos: 0
+---------------
+Carrera: Alimentos
+Admitidos:
+Total Admitidos: 0
+---------------
+Carrera: Artes Escenicas
+Admitidos:
+- Mónica Herrera, Cédula: 2213758892, Puntaje: 84,19
+Total Admitidos: 1
+---------------
+Carrera: Artes Visuales
+Admitidos:
+- María Torres, Cédula: 2518400075, Puntaje: 68,50
+Total Admitidos: 1
+---------------
+Carrera: Biologia
+Admitidos:
+- Laura Escobar, Cédula: 2910493347, Puntaje: 69,73
+Total Admitidos: 1
+---------------
+Carrera: Contabilidad y Auditoria
+Admitidos:
+- Vanessa Villavicencio, Cédula: 8070377797, Puntaje: 108,23
+Total Admitidos: 1
+---------------
+Carrera: Derecho
+Admitidos:
+- Marco Coronel, Cédula: 4342585201, Puntaje: 102,33
+- Vanessa Reyes, Cédula: 6304175730, Puntaje: 92,99
+Total Admitidos: 2
+---------------
+Carrera: Economia
+Admitidos:
+- Ana Medina, Cédula: 3694437625, Puntaje: 102,95
+- Renata Ramos, Cédula: 7480040260, Puntaje: 91,25
+Total Admitidos: 2
+---------------
+Carrera: Finanzas
+Admitidos:
+- Álvaro Flores, Cédula: 1532788336, Puntaje: 81,21
+Total Admitidos: 1
+---------------
+Carrera: Geologia
+Admitidos:
+Total Admitidos: 0
+---------------
+Carrera: Ingenieria Ambiental
+Admitidos:
+Total Admitidos: 0
+---------------
+Carrera: Pedagogia de los idiomas Nacionales y Extranjeros
+Admitidos:
+- Luis Pérez, Cédula: 3373704557, Puntaje: 123,97
+- Laura Zambrano, Cédula: 4770179769, Puntaje: 109,46
+- Lucía Navarro, Cédula: 6159324677, Puntaje: 108,32
+- Laura Castillo, Cédula: 1710992516, Puntaje: 110,87
+- Fernanda Sánchez, Cédula: 7674980755, Puntaje: 83,67
+Total Admitidos: 5
+---------------
+Carrera: Psicopedagogia
+Admitidos:
+- Renata Castillo, Cédula: 2645193651, Puntaje: 97,73
+- Sofía Chávez, Cédula: 3915594360, Puntaje: 90,15
+- Andrea Escobar, Cédula: 9057968303, Puntaje: 81,39
+Total Admitidos: 3
+---------------
+Carrera: Telecomunicaciones
+Admitidos:
+- Sebastián Morales, Cédula: 0792206651, Puntaje: 85,15
+- Juan Torres, Cédula: 2633263694, Puntaje: 84,36
+- Valentina Mendoza, Cédula: 1595786178, Puntaje: 85,95
+- Alejandra Quintero, Cédula: 0683660959, Puntaje: 85,81
+- Jorge Navarro, Cédula: 7878924291, Puntaje: 76,36
+Total Admitidos: 5
+---------------
+Carrera: Arquitectura
+Admitidos:
+Total Admitidos: 0
+---------------
+Carrera: Bioquimica y Farmacia
+Admitidos:
+Total Admitidos: 0
+---------------
+Carrera: Computacion
+Admitidos:
+Total Admitidos: 0
+---------------
+Carrera: Enfermeria
+Admitidos:
+Total Admitidos: 0
+---------------
+Carrera: Fisioterapia
+Admitidos:
+Total Admitidos: 0
+---------------
+Carrera: Gastronomia
+Admitidos:
+Total Admitidos: 0
+---------------
+Carrera: Ingenieria Civil
+Admitidos:
+Total Admitidos: 0
+---------------
+Carrera: Ingenieria Industrial
+Admitidos:
+Total Admitidos: 0
+---------------
+Carrera: Ingenieria Quimica
+Admitidos:
+Total Admitidos: 0
+---------------
+Carrera: Medicina
+Admitidos:
+Total Admitidos: 0
+---------------
+Carrera: Nutricion y Dietética
+Admitidos:
+Total Admitidos: 0
+---------------
+Carrera: Psicologia
+Admitidos:
+Total Admitidos: 0
+---------------
+Carrera: Psicologia Clinica
+Admitidos:
+- Carlos Rodríguez, Cédula: 0378090150, Puntaje: 90,68
+- Alejandra Jara, Cédula: 4904079793, Puntaje: 67,30
+Total Admitidos: 2
+---------------
+
+=== Estadísticas finales ===
+Carreras con menos del 50% de cupos ocupados:
+- Administracion de empresas
+- Agropecuaria
+- Alimentos
+- Artes Escenicas
+- Artes Visuales
+- Biologia
+- Contabilidad y Auditoria
+- Derecho
+- Economia
+- Finanzas
+- Geologia
+- Ingenieria Ambiental
+- Pedagogia de los idiomas Nacionales y Extranjeros
+- Psicopedagogia
+- Telecomunicaciones
+- Psicologia Clinica
+
+Carreras que rechazaron postulantes por falta de cupos:
+- Arquitectura
+- Bioquimica y Farmacia
+- Computacion
+- Fisioterapia
+- Gastronomia
+- Ingenieria Civil
+- Ingenieria Industrial
+- Ingenieria Quimica
+- Medicina
+- Nutricion y Dietética
+- Psicologia
+
+=== Postulantes rechazados por inscripción fuera de fecha ===
+- Mario Torres (Carrera: Medicina, Fecha: 2025-05-07)
+- Gabriela Suárez (Carrera: Computacion, Fecha: 2025-05-08)
+- Kevin Herrera (Carrera: Gastronomia, Fecha: 2025-05-09)
+- Diana Zambrano (Carrera: Finanzas, Fecha: 2025-05-10)
+- Francisco Pérez (Carrera: Derecho, Fecha: 2025-05-12)
