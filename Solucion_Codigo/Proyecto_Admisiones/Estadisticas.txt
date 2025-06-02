@@ -1,7 +1,7 @@
 === Resultados de admisión por carrera ===
 Carrera: Administracion de empresas
 Admitidos:
-- Antonella Mendoza, Cédula: 2841167355, Puntaje: 107,71
+- Antonella Mendoza, Cédula: 2606249520, Puntaje: 107,71
 Total Admitidos: 1
 ---------------
 Carrera: Agropecuaria
@@ -14,39 +14,39 @@ Total Admitidos: 0
 ---------------
 Carrera: Artes Escenicas
 Admitidos:
-- Mónica Herrera, Cédula: 2213758892, Puntaje: 84,19
+- Mónica Herrera, Cédula: 9778315444, Puntaje: 84,19
 Total Admitidos: 1
 ---------------
 Carrera: Artes Visuales
 Admitidos:
-- María Torres, Cédula: 2518400075, Puntaje: 68,50
+- María Torres, Cédula: 1036239732, Puntaje: 68,50
 Total Admitidos: 1
 ---------------
 Carrera: Biologia
 Admitidos:
-- Laura Escobar, Cédula: 2910493347, Puntaje: 69,73
+- Laura Escobar, Cédula: 9742877088, Puntaje: 69,73
 Total Admitidos: 1
 ---------------
 Carrera: Contabilidad y Auditoria
 Admitidos:
-- Vanessa Villavicencio, Cédula: 8070377797, Puntaje: 108,23
+- Vanessa Villavicencio, Cédula: 7035294104, Puntaje: 108,23
 Total Admitidos: 1
 ---------------
 Carrera: Derecho
 Admitidos:
-- Marco Coronel, Cédula: 4342585201, Puntaje: 102,33
-- Vanessa Reyes, Cédula: 6304175730, Puntaje: 92,99
+- Marco Coronel, Cédula: 5526145466, Puntaje: 102,33
+- Vanessa Reyes, Cédula: 5891932519, Puntaje: 92,99
 Total Admitidos: 2
 ---------------
 Carrera: Economia
 Admitidos:
-- Ana Medina, Cédula: 3694437625, Puntaje: 102,95
-- Renata Ramos, Cédula: 7480040260, Puntaje: 91,25
+- Ana Medina, Cédula: 9807635705, Puntaje: 102,95
+- Renata Ramos, Cédula: 4243110909, Puntaje: 91,25
 Total Admitidos: 2
 ---------------
 Carrera: Finanzas
 Admitidos:
-- Álvaro Flores, Cédula: 1532788336, Puntaje: 81,21
+- Álvaro Flores, Cédula: 0854372595, Puntaje: 81,21
 Total Admitidos: 1
 ---------------
 Carrera: Geologia
@@ -59,27 +59,27 @@ Total Admitidos: 0
 ---------------
 Carrera: Pedagogia de los idiomas Nacionales y Extranjeros
 Admitidos:
-- Luis Pérez, Cédula: 3373704557, Puntaje: 123,97
-- Laura Zambrano, Cédula: 4770179769, Puntaje: 109,46
-- Lucía Navarro, Cédula: 6159324677, Puntaje: 108,32
-- Laura Castillo, Cédula: 1710992516, Puntaje: 110,87
-- Fernanda Sánchez, Cédula: 7674980755, Puntaje: 83,67
+- Luis Pérez, Cédula: 1925763794, Puntaje: 123,97
+- Laura Zambrano, Cédula: 1594430070, Puntaje: 109,46
+- Lucía Navarro, Cédula: 0506672437, Puntaje: 108,32
+- Laura Castillo, Cédula: 2889105605, Puntaje: 110,87
+- Fernanda Sánchez, Cédula: 2910952428, Puntaje: 83,67
 Total Admitidos: 5
 ---------------
 Carrera: Psicopedagogia
 Admitidos:
-- Renata Castillo, Cédula: 2645193651, Puntaje: 97,73
-- Sofía Chávez, Cédula: 3915594360, Puntaje: 90,15
-- Andrea Escobar, Cédula: 9057968303, Puntaje: 81,39
+- Renata Castillo, Cédula: 7534573426, Puntaje: 97,73
+- Sofía Chávez, Cédula: 8682575993, Puntaje: 90,15
+- Andrea Escobar, Cédula: 0216616561, Puntaje: 81,39
 Total Admitidos: 3
 ---------------
 Carrera: Telecomunicaciones
 Admitidos:
-- Sebastián Morales, Cédula: 0792206651, Puntaje: 85,15
-- Juan Torres, Cédula: 2633263694, Puntaje: 84,36
-- Valentina Mendoza, Cédula: 1595786178, Puntaje: 85,95
-- Alejandra Quintero, Cédula: 0683660959, Puntaje: 85,81
-- Jorge Navarro, Cédula: 7878924291, Puntaje: 76,36
+- Sebastián Morales, Cédula: 3289974741, Puntaje: 85,15
+- Juan Torres, Cédula: 3350289590, Puntaje: 84,36
+- Valentina Mendoza, Cédula: 3278335644, Puntaje: 85,95
+- Alejandra Quintero, Cédula: 2351147253, Puntaje: 85,81
+- Jorge Navarro, Cédula: 2435811604, Puntaje: 76,36
 Total Admitidos: 5
 ---------------
 Carrera: Arquitectura
@@ -132,8 +132,8 @@ Total Admitidos: 0
 ---------------
 Carrera: Psicologia Clinica
 Admitidos:
-- Carlos Rodríguez, Cédula: 0378090150, Puntaje: 90,68
-- Alejandra Jara, Cédula: 4904079793, Puntaje: 67,30
+- Carlos Rodríguez, Cédula: 3493517101, Puntaje: 90,68
+- Alejandra Jara, Cédula: 7206062223, Puntaje: 67,30
 Total Admitidos: 2
 ---------------
 

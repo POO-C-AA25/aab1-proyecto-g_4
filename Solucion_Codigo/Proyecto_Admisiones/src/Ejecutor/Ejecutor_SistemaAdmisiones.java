@@ -1,5 +1,4 @@
 package Ejecutor;
-
 import Modelado.Postulante;
 import Modelado.Carrera;
 import Controlador.Estadistica;
@@ -12,7 +11,6 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
-
 public class Ejecutor_SistemaAdmisiones {
 
     static final LocalDate fechaIncio = LocalDate.of(2025, 04, 18);
@@ -47,7 +45,7 @@ public class Ejecutor_SistemaAdmisiones {
         }
         Estadistica estadistica = new Estadistica(bajoCupo, rechazadas);
         try {
-            Formatter salida = new Formatter(new File("DatosGenerados.txt"));
+            Formatter salida = new Formatter(new File("Estadisticas.txt"));
             salida.format("=== Resultados de admisión por carrera ===\n");
             for (Carrera c : carrerasDisponibles) {
                 salida.format("Carrera: %s\n", c.getNombre());
@@ -78,7 +76,7 @@ public class Ejecutor_SistemaAdmisiones {
                 }
             }
             salida.close();
-            System.out.println("Resultados guardados en DatosGenerados.txt");
+            System.out.println("Resultados guardados en Estadisticas.txt");
 
         } catch (FileNotFoundException e) {
             System.out.println("Error al crear archivo: " + e.getMessage());
