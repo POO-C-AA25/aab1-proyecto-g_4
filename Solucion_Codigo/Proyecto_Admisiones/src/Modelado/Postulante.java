@@ -1,6 +1,4 @@
-
 package Modelado;
-
 public class Postulante {
     public String nombre;
     public String cedula;
@@ -8,7 +6,6 @@ public class Postulante {
     private double puntajeExamen;
     private int puntajeMerito;
     private String tipoMerito;
-
     public Postulante(String nombre, String cedula, Carrera carreraDeseada){
         this.nombre = nombre;
         this.cedula = cedula;
