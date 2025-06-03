@@ -2,9 +2,9 @@
 package Modelado;
 
 public class Postulante {
-    private String nombre;
-    private String cedula;
-    private Carrera carreraDeseada;
+    public String nombre;
+    public String cedula;
+    public Carrera carreraDeseada;
     private double puntajeExamen;
     private int puntajeMerito;
     private String tipoMerito;

@@ -6,9 +6,9 @@ import java.util.List;
 import java.util.Comparator;
 
 public class Carrera {
-    private String nombre;
-    private String formaAdmision;
-    private int puntajeMinimo;
+    public String nombre;
+    public String formaAdmision;
+    public int puntajeMinimo;
     private double puntajeNivelacion;
     private int cupos;
     private ArrayList<Postulante> postulantes;
